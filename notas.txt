@@ -1,0 +1,15 @@
+elementos inline não é possivel aplicar "margin: auto"
+
+background-size: cover; -> cobre todo espaço visivel
+
+box-sizing: border-box; -> para que a medida do tamanho da caixa seja medida pela borda
+
+list-style: none; -> retira as bolinha de tópicos
+
+rgba -> red, green, blue e alpha(transparencia)
+
+text-decoration; -> retirar a sublinha
+
+a:hover -> aplica quando passa o mouse em cima
+
+transition -> efeito quando passa o mouse em cima
